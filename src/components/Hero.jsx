@@ -122,7 +122,7 @@ export default function Hero() {
             zIndex: 1,
           }}>
             <img
-              src="public/Im.png"
+              src="/im.png"
               alt="Muhamad Imbar"
               style={{
                 width: "100%",
