@@ -1,5 +1,6 @@
 "use client";
 import { motion } from "framer-motion";
+import Image from "next/image";
 
 const icons = [
   { label: "React", bg: "#61DAFB", color: "#000", top: "0%", left: "0%" },
